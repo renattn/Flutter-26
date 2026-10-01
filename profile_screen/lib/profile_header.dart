@@ -10,7 +10,7 @@ class ProfileHeader extends StatelessWidget {
     required this.university,
   });
 
-  @override
+  @override 
   Widget build(BuildContext context) {
     return Column(
       children: [

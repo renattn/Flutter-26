@@ -1,4 +1,4 @@
-const String myName = 'Ринат';
+const String myName = 'Rinat';
 const String myUniversity = 'Kazakh-British Technical University';
 
 const List<({String label, String value})> facts = [
